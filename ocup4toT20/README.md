@@ -1,2 +1,1 @@
-# ocup4toT20
 Ocupaciones 4to trimestre 2020
